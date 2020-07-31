@@ -28,6 +28,7 @@ h1{
     margin-bottom: 0px;
 }
 .Floater{
+  border-radius: 3px;
     margin-top: 0px;
     border-left: 2px solid black;
     border-bottom: 2px solid black;
@@ -48,6 +49,7 @@ h1{
     background-color: coral;
 }
 section > div{
+  border-radius: 3px;
     border: 2px solid black;
 }
 footer{
