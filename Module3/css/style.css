@@ -90,3 +90,12 @@ li{
 	font-size: 20px;
 	font-weight: bold;
 }
+.MobileShow 
+{
+    display: none;
+}
+  /* Smartphone Portrait and Landscape */
+  @media(max-width:767px)
+  { 
+      .MobileShow {display: inline;}
+  }
